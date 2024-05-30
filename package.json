@@ -24,7 +24,7 @@
     "lucide-react": "^0.303.0",
     "framer-motion": "^10.2.4",
     "iron-session": "^6.3.1",
-    "next": "13.3.0",
+    "next": "^14.0.0",
     "next-seo": "^6.0.0",
     "next-themes": "^0.2.1",
     "nextra": "2.3.0",
