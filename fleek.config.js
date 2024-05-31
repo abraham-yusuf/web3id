@@ -3,7 +3,7 @@ module.exports = {
   "sites": [
     {
       "slug": "web3id",
-      "distDir": "./",
+      "distDir": "./outstatic/content",
       "buildCommand": "pnpm run build"
     }
   ]
