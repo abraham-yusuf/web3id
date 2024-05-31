@@ -40,4 +40,3 @@ export const BuiltWithOutstatic = ({ fixed = true }: { fixed: boolean }) => (
                                                                                                                                                                                                                                                                                               </a>
                                                                                                                                                                                                                                                                                                 </div>
                                                                                                                                                                                                                                                                                                 );
-)
