@@ -7,22 +7,22 @@ import "@/styles/index.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://outstatic.com"),
+  metadataBase: new URL("https://w3idn.xyz"),
     title: {
-        default: "Andre Vitorio - Design. Develop. Deploy.",
-            template: "%s | Andre Vitorio",
+        default: "Web3IDN .",
+            template: "%s | Advancing blockchain education, research, resources and development Web3 Indonesia",
               },
                 description:
-                    "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
+                    "Advancing blockchain education, research, resources and development Web3 Indonesia",
                       openGraph: {
-                          title: "Andre Vitorio - Design. Develop. Deploy.",
+                          title: "Web3IDN",
                               description:
-                                    "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
+                                    "Advancing blockchain education, research, resources and development Web3 Indonesia",
                                         url: absoluteUrl("/"),
-                                            siteName: "AndreVitorio.com",
+                                            siteName: "w3idn.xyz",
                                                 images: [
                                                       {
-                                                              url: ogUrl("Andre Vitorio - Design. Develop. Deploy."),
+                                                              url: ogUrl("Web3IDN"),
                                                                       width: 1200,
                                                                               height: 630,
                                                                                     },
